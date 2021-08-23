@@ -1,0 +1,4 @@
+Run in: CONSOLE
+commands: [
+  - "/give $PLAYER$ APPLE"
+]

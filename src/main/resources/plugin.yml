@@ -1,0 +1,11 @@
+main: net.wigoftime.clickycommand.Main
+name: ClickerBlock
+description: Run commands by clicking!
+author: Ecoleaf
+version: 0.1
+api-version: 1.14
+
+commands:
+  ClickerBlock:
+    description: Add or remove clickerblocks!
+    permission: net.wigoftime.clickycommand.customblock
